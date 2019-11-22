@@ -1,0 +1,35 @@
+html{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-color:#F8F9FA;
+}
+.list-group-item{
+    cursor: pointer;
+}
+
+.navi{
+    background-color: #232F3E;
+    a{
+        color: #fff !important;
+    }
+}
+
+span{
+    color: black !important;
+}
+.active{
+    background: #17a2b8 !important;
+    border-color: #089db4;
+}
+.badge{
+    font-weight: 400 !important;
+}
+.dropdown-item{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center;
+}
